@@ -11,12 +11,12 @@ __pycache__/
 *.pyd
 .Python
 
-# Database files (sensitive data)
+# Database files
 *.bak
 *.mdf
 *.ldf
 
-# Credentials (never upload)
+# Credentials
 config/config.py
 
 # PySpark temp files
